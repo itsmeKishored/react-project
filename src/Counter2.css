@@ -1,0 +1,13 @@
+.buttoncontainer{
+    color: blue;
+    padding: 0rem;
+    margin: 5rem;
+}
+
+.btn{
+    display: flex;
+    text-decoration: none;
+    gap: 2rem;
+    border-radius: 30%;
+    box-shadow: 20px 20px 20px;
+}

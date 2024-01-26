@@ -8,7 +8,7 @@ export default function Layout() {
             <ul className="nav-bar">
                 <li className="nav-link"><Link to="/">HOME</Link></li>
                 <li className="nav-link"><Link to="/about">ABOUT</Link></li>
-                <li className="nav-link"><Link to="/contact">CONTACT</Link></li>
+                <li className="nav-link"><Link to="/contact">CONTACT</Link></li>.
             </ul>
             
         </nav>
